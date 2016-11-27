@@ -19,6 +19,7 @@ gem 'stripe', '~> 1.56', '>= 1.56.1'
 gem 'stripe_event', '~> 1.5', '>= 1.5.1'
 gem 'administrate', '~> 0.3.0'
 gem 'devise_invitable', '~> 1.7'
+gem 'receipts', '~> 0.1.3'
 gem 'redis'
 
 
